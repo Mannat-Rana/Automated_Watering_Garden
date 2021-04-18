@@ -1,1 +1,1 @@
-# Automated_Watering_Garden
+This project uses a 555 timer to create a capacitive sensor that measures the moisture in the soil. With this measurement, water is only added to soil when it is dry as opposed to modern watering devices that are timer based.
